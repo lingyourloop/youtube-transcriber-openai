@@ -1,0 +1,6 @@
+flask
+openai
+python-dotenv
+whisper
+yt-dlp
+google-cloud-texttospeech

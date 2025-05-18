@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Ortam dosyaları
+.env
+*.env
+
+# Google Cloud Key veya API key dosyaları
+secrets/
+*.json
+
+# IDE / VSCode
+.vscode/
+.idea/
+
+# Çıktı dosyaları
+*.mp3
+*.zip
+output/
+
+
+main.py
+utils.py
